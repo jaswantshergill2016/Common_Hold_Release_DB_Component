@@ -1,0 +1,4 @@
+org/reactivestax/repository/HoldReleaseRepository.class
+org/reactivestax/App.class
+org/reactivestax/domain/HoldRelease.class
+org/reactivestax/service/HoldReleaseService.class
